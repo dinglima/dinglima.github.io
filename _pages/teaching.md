@@ -1,15 +1,26 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /service/
+title: service
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Assistant
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**University of Washington**
+- QMETH 500: Statistical Data Analysis for Management (HMBA), Winter 2026
+- QMETH 505: Decision Modeling (HMBA), Spring 2026
+- OPMGT 565: Business Analytics - Tools for Big Data (MBA), Spring 2025, Spring 2026
+- SCM 512: Spreadsheet Modeling for Business Enterprise (MSCM), Summer 2024
+- QMETH 201: Introduction to Statistical Methods (Undergraduate), Winter 2024, Spring 2024
 
-{% include courses.liquid %}
+## Course Assistant
+
+**Columbia University**
+
+- IEOR 4004: Optimization Models and Methods (MSOR), Fall 2022
+
+## Reviewer
+
+- Transportation Science
