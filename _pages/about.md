@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>University of Washington</a>. dingli98@uw.edu.
+subtitle: <a href='https://www.washington.edu/'>University of Washington</a>. dingli98@uw.edu.
 
 profile:
   align: right
