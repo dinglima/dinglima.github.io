@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Dingli Ma (马鼎立 in Chinese). I am currently a third-year Ph.D. candidate in  Operations Management at the [Michael G. Foster School of Business, University of Washington](https://foster.uw.edu/), where I am very fortunate to be advised by Prof. [Michael R. Wagner](https://faculty.washington.edu/mrwagner/), and to work with Prof. [Shi Chen](https://foster.uw.edu/faculty-research/directory/shi-chen/) and Prof. [Yingfei Wang](https://sites.google.com/uw.edu/yingfei/home?authuser=0). Prior to UW, I earned my master's degree in Operations Research from Columbia University and my bachelor's degree in Mathematics and Applied Mathematics from Fudan University. In Columbia, I used to work with Prof. [Cédric Josz](https://sites.google.com/site/cedricjosz/).
+Hi! My name is Dingli Ma (马鼎立 in Chinese). I am currently a third-year Ph.D. candidate in  Operations Management at the [Michael G. Foster School of Business, University of Washington](https://foster.uw.edu/), where I am very fortunate to be advised by Prof. [Michael R. Wagner](https://faculty.washington.edu/mrwagner/), and to work with Prof. [Shi Chen](https://foster.uw.edu/faculty-research/directory/shi-chen/) and Prof. [Yingfei Wang](https://sites.google.com/uw.edu/yingfei/home?authuser=0). Prior to UW, I earned my master's degree in Operations Research from Columbia University and my bachelor's degree in Mathematics and Applied Mathematics from Fudan University. At Columbia University, I was fortunate to work with Prof. [Cédric Josz](https://sites.google.com/site/cedricjosz/).
 
 My research interests focuses on optimization, reinforcement learning, and AI-driven decision-making.
 

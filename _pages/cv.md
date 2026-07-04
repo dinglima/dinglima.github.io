@@ -1,13 +1,13 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Dingli_Ma_CV.pdf # you can also use external links here
-cv_format: jsonresume # options: rendercv, jsonresume
-description: 
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-# toc:
-#   sidebar: left
 ---
+
+[Download CV]({{ '/assets/pdf/Dingli_Ma_CV.pdf' | relative_url }})
+
+<object data="{{ '/assets/pdf/Dingli_Ma_CV.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
+  <p>Your browser cannot display the PDF inline. <a href="{{ '/assets/pdf/Dingli_Ma_CV.pdf' | relative_url }}">Download the CV</a>.</p>
+</object>

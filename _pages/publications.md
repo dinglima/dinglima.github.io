@@ -7,27 +7,22 @@ nav: true
 nav_order: 2
 ---
 
-# Research
-
 ## Papers Under Review
 
-**[Robust Two-Sided Delivery-Time Promising with Endogenous Demand and Crowd-Courier Supply]()**  
-Dingli Ma, Michael R. Wagner  
+**Robust Two-Sided Delivery-Time Promising with Endogenous Demand and Crowd-Courier Supply**<br>
+Dingli Ma, Michael R. Wagner<br>
 _Under review, Operations Research_
 
-**[Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search]()**  
+**Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search**<br>
 Jiongxiao Wang, Dingli Ma, Chaoqun Ni
-
 
 ## Publications
 
-**[Instrumental Variable Value Iteration for Causal Offline Reinforcement Learning](https://www.jmlr.org/papers/volume25/22-0965/22-0965.pdf)** 
-Luofeng Liao, Zuyue Fu, Zhuoran Yang, Yixin Wang, Dingli Ma, Mladen Kolar, Zhaoran Wang  
+**[Instrumental Variable Value Iteration for Causal Offline Reinforcement Learning](https://www.jmlr.org/papers/volume25/22-0965/22-0965.pdf)**<br>
+Luofeng Liao, Zuyue Fu, Zhuoran Yang, Yixin Wang, Dingli Ma, Mladen Kolar, Zhaoran Wang<br>
 _Journal of Machine Learning Research, 2024_
-
 
 ## Work In Progress
 
-**[Contextual Non-perishable Inventory Control with Censored Demand and General Function Approximation]()**  
+**Contextual Non-perishable Inventory Control with Censored Demand and General Function Approximation**<br>
 Dingli Ma, Mengxiao Zhang, Shi Chen, Haipeng Luo, Yingfei Wang
-
