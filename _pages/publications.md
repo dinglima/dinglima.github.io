@@ -13,8 +13,6 @@ nav_order: 2
 Dingli Ma, Michael R. Wagner<br>
 _Under review, Operations Research_
 
-**Generating Biomedical Fact-Checking Reports with RL-Enhanced Agentic Search**<br>
-Jiongxiao Wang, Dingli Ma, Chaoqun Ni
 
 ## Publications
 
