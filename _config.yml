@@ -7,7 +7,15 @@ first_name: Dingli
 middle_name:
 last_name: Ma
 contact_note: >
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=76OMDIGpZAs4RL5N3z3A5Ci4mfEv1i-rr_n4f54urPs'></script>
+  <iframe
+    src="/assets/html/mapmyvisitors.html"
+    width="320"
+    height="170"
+    loading="lazy"
+    sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation"
+    style="border: 0; display: block; margin: 0 auto;"
+    title="Visitor map"
+  ></iframe>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
